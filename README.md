@@ -3,6 +3,8 @@
 <!--
 **danykre/danykre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<img class="logo" src="./portada-linkedin.jpg" alt="logo de tu pizza cerca">
+
 Acerca de Mi
 - 🏦 Tengo experiencia de 15 años en el sector financiero
 - 👀 Me interesa el mundo de los datos y por eso estudie Data Analytics

@@ -13,4 +13,5 @@ Acerca de Mi
 - 💬 Busco conseguir trabajo para poder aplicar todo lo estudiado
 - 📫 No dudes en contactarme
 <H3>🌐 Contacto </H3>
- <a href="[https://www.linkedin.com/in/kartikkapgate](https://www.linkedin.com/in/daniel-kresisch-7864551b/)/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+ <a href="https://www.linkedin.com/in/daniel-kresisch-7864551b/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+ <a href="mailto:danielkresisch@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>

@@ -4,6 +4,7 @@
 -->
 <img class="img-fluid" src="https://media.licdn.com/dms/image/D4D16AQGCEogJFwTOVg/profile-displaybackgroundimage-shrink_350_1400/0/1720361157101?e=1728518400&v=beta&t=_3p1lU05OldA0EwkB8W7xyZ5HvYV_cy9m8aQnrhPiLs" alt="Portada"/>
 
+
 Acerca de Mi
 - 🏦 Tengo experiencia de 15 años en el sector financiero
 - 👀 Me interesa el mundo de los datos y por eso estudie Data Analytics
@@ -12,3 +13,4 @@ Acerca de Mi
 - 💬 Busco conseguir trabajo para poder aplicar todo lo estudiado
 - 📫 No dudes en contactarme
 <H3>🌐 Contacto </H3>
+ <a href="[https://www.linkedin.com/in/kartikkapgate](https://www.linkedin.com/in/daniel-kresisch-7864551b/)/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>

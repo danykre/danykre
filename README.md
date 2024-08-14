@@ -10,7 +10,7 @@ Acerca de mi
 - 👀 Me dio curiosidad el mundo de los datos, por lo que estudié Data Analytics
 - 👨‍🎓 Me recibí de Data Analytics en Coderhouse, dentro del Top10
 - 💻 Hice cursps de varias herramientas y sigo aprendiendo para crecer en el mundo de los datos
-- 💬 Busco trabajo para seguir creciendo y aplicar todos lo estudiado
+- 💬 Busco trabajo para seguir creciendo y aplicar todo lo estudiado
 - 📫 Cualquier duda, contactame
 <H3>🌐 Contacto </H3>
  <a href="https://www.linkedin.com/in/daniel-kresisch-7864551b/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>

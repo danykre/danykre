@@ -10,7 +10,7 @@ Acerca de mi
 - 👀 Me dio curiosidad el mundo de los datos, por lo que me puse a estudiar Data Analytics
 - 👨‍🎓 Me recibí de Data Analytics en Coderhouse, dentro del Top10
 - 📓 Hice cursos de SQL, Power BI y Tableau
-- 💻 Estoy estudiando Data Sciencie para seguir creciendo profesionalmente
+- 💻 Estoy estudiando Data Science para seguir creciendo profesionalmente
 - 💬 Busco trabajo para aplicar todo lo estudiado y encontrar desafíos cada día
 - 📫 Cualquier duda, contactame
 <H3>🌐 Contacto </H3>

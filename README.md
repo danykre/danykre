@@ -8,10 +8,9 @@
 Acerca de mi
 - 🏦 Tengo experiencia de 15 años en el sector financiero
 - 👀 Me dio curiosidad el mundo de los datos, por lo que me puse a estudiar Data Analytics
-- 👨‍🎓 Me recibí de Data Analytics en Coderhouse, dentro del Top10
+- 👨‍🎓 Me recibí de Data Analytics en Coderhouse, dentro del Top10 y de Data Science con un 10 en el proyecto final
 - 📓 Hice cursos de SQL, Power BI y Tableau
-- 💻 Estoy estudiando Data Science para seguir creciendo profesionalmente
-- 💬 Busco trabajo para aplicar todo lo estudiado y encontrar desafíos cada día
+- 💻 Sigo profundizando mis conocimientos en Data Science, aplicando técnicas avanzadas de análisis y modelos predictivos para generar soluciones basadas en datos.
 - 📫 Cualquier duda, contactame
 <H3>🌐 Contacto </H3>
  <a href="https://www.linkedin.com/in/daniel-kresisch-7864551b/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>

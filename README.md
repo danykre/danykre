@@ -2,7 +2,7 @@
 <!--
 **danykre/danykre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img class="img-fluid" src="https://media.licdn.com/dms/image/v2/D4D16AQGCEogJFwTOVg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720361157101?e=1734566400&v=beta&t=Vu1sA1AanV-_JvHTuTHctmiDOmyJjHvOCOWclTTYcDc" alt="Portada"/>
+<img class="img-fluid" src="https://media.licdn.com/dms/image/v2/D4D16AQGCEogJFwTOVg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720361157101?e=1741219200&v=beta&t=hqCfzpX-RlbnGT0eInGYOefMFLCPjTxFtvuHlY4_7Xs" alt="Portada"/>
 
 
 Acerca de mi

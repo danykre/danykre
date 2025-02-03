@@ -9,7 +9,7 @@ Acerca de mi
 - 🏦 Tengo experiencia de 15 años en el sector financiero
 - 👀 Me dio curiosidad el mundo de los datos, por lo que me puse a estudiar Data Analytics
 - 👨‍🎓 Me recibí como Data Analytics y Data Science en Coderhouse, quedando dentro del Top 10 de los mejores alumnos
-- 📓 Hice cursos de SQL, Power BI y Tableau
+- 📓 Me certifiqué en herramientas como Excel, SQL, Power BI, Looker y Tableau.
 - 💻 Sigo profundizando en el mundo de los datos y estoy estudiando Business Analytics para mejorar la toma decisiones incrementando la productividad y eficiencia en una organización.
 - 📫 Cualquier duda, contactame
 <H3>🌐 Contacto </H3>

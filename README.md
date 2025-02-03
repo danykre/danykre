@@ -10,7 +10,7 @@ Acerca de mi
 - 👀 Me dio curiosidad el mundo de los datos, por lo que me puse a estudiar Data Analytics
 - 👨‍🎓 Me recibí como Data Analytics y Data Science en Coderhouse, quedando dentro del Top 10 de los mejores alumnos
 - 📓 Hice cursos de SQL, Power BI y Tableau
-- 💻 Sigo profundizando mis conocimientos en Data Science, aplicando técnicas avanzadas de análisis y modelos predictivos para generar soluciones basadas en datos.
+- 💻 Sigo profundizando en el mundo de los datos y estoy estudiando Business Analytics para mejorar la toma decisiones incrementando la productividad y eficiencia en una organización.
 - 📫 Cualquier duda, contactame
 <H3>🌐 Contacto </H3>
  <a href="https://www.linkedin.com/in/daniel-kresisch-7864551b/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>

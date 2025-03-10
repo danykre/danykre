@@ -2,7 +2,7 @@
 <!--
 **danykre/danykre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img class="img-fluid" src="https://media.licdn.com/dms/image/v2/D4D16AQGCEogJFwTOVg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720361157101?e=1741219200&v=beta&t=hqCfzpX-RlbnGT0eInGYOefMFLCPjTxFtvuHlY4_7Xs" alt="Portada"/>
+<img class="img-fluid" src="https://assets.datamation.com/uploads/2023/08/dm08172023-what-is-data-analytics-696x455.png" alt="Portada"/>
 
 
 Acerca de mi
@@ -13,7 +13,7 @@ Acerca de mi
 - 💻 Sigo profundizando en el mundo de los datos para mejorar la toma decisiones incrementando la productividad y eficiencia en una organización.
 - 📫 Cualquier duda, contactame
 <H3>🌐 Contacto </H3>
- <a href="https://www.linkedin.com/in/daniel-kresisch-7864551b/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+ <a href="https://www.linkedin.com/in/daniel-kresisch/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
  <a href="mailto:danielkresisch@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
  <a href="https://danielkresisch.com.ar" target="_blank"><img alt="WebSite" src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white="/></a>
 

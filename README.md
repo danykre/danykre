@@ -6,8 +6,8 @@
 
 ### 🧠 Acerca de mí
 
-- 🏦 +15 años de experiencia en el sector financiero.
-- 📊 Apasionado por el análisis de datos y su poder para optimizar decisiones.
+- 🏦 Tengo experiencia de 15 años en el sector financiero.
+- 👀 Me dio curiosidad el mundo de los datos, por lo que comencé a estudiarlos.
 - 🎓 Me recibí de **Data Analytics**, **Business Analytics** y **Data Science** en Coderhouse, quedando dentro del Top 10 de los mejores alumnos.
 - 🧰 Me certifiqué en **Excel**, **SQL**, **Power BI**, **Looker** y **Tableau**.
 - 🚀 Sigo profundizando en el mundo de los datos para mejorar la toma de decisiones, incrementando la productividad y eficiencia en las organizaciones.

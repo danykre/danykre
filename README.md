@@ -1,47 +1,49 @@
-## <H1>Hola, soy Daniel Kresisch <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" data-animated-image="" width="35" height="35" /><H1>
-<!--
-**danykre/danykre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<img class="img-fluid" src="https://assets.datamation.com/uploads/2023/08/dm08172023-what-is-data-analytics-696x455.png" alt="Portada"/>
+## 👋 ¡Hola, soy Daniel Kresisch! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" />
 
+<img src="https://assets.datamation.com/uploads/2023/08/dm08172023-what-is-data-analytics-696x455.png" alt="Data Analytics Banner" width="100%" />
 
-Acerca de mi
-- 🏦 Tengo experiencia de 15 años en el sector financiero
-- 👀 Me dio curiosidad el mundo de los datos, por lo que comencé a estudiarlos
-- 👨‍🎓 Me recibí como Data Analytics, Business Analytics y Data Science en Coderhouse, quedando dentro del Top 10 de los mejores alumnos
-- 📓 Me certifiqué en herramientas como Excel, SQL, Power BI, Looker y Tableau.
-- 💻 Sigo profundizando en el mundo de los datos para mejorar la toma decisiones incrementando la productividad y eficiencia en una organización.
-- 📫 Cualquier duda, contactame
-<H3>🌐 Contacto </H3>
- <a href="https://www.linkedin.com/in/daniel-kresisch/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
- <a href="mailto:danielkresisch@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
- <a href="https://danielkresisch.com.ar" target="_blank"><img alt="WebSite" src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white="/></a>
+---
 
-<br/>
+### 🧠 Acerca de mí
 
-<h3> 🛠 &nbsp;Herramientas</h3>
+- 🏦 +15 años de experiencia en el sector financiero.
+- 📊 Apasionado por el análisis de datos y su poder para optimizar decisiones.
+- 🎓 Me recibí de **Data Analytics**, **Business Analytics** y **Data Science** en Coderhouse, quedando dentro del Top 10 de los mejores alumnos.
+- 🧰 Me certifiqué en **Excel**, **SQL**, **Power BI**, **Looker** y **Tableau**.
+- 🚀 Sigo profundizando en el mundo de los datos para mejorar la toma de decisiones, incrementando la productividad y eficiencia en las organizaciones.
 
-  - ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-  - ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black)
-    ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-    ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-    
-  - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    ![Canva]( https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+### 🌐 Contacto
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/daniel-kresisch/)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:danielkresisch@gmail.com)  
+[![WebSite](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danielkresisch.com.ar)
 
-<br />
-<br />
+---
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=danykre&theme=radical&hide_border=false)
+### ⚙️ Herramientas y Tecnologías
 
-![CommonLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#### Bases de Datos y Lenguajes
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br />
-<br />
-<br />
+#### Visualización y Análisis
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### Otras herramientas
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+### 📈 Estadísticas
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danykre&theme=radical&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---

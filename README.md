@@ -16,9 +16,10 @@
 
 ### 🌐 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/daniel-kresisch/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/daniel-kresisch/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:danielkresisch@gmail.com)  
-[![WebSite](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danielkresisch.com.ar)
+
+[![Visita mi sitio web](https://img.shields.io/badge/Visita_mi_sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danielkresisch.com.ar)
 
 ---
 

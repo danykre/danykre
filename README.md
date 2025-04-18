@@ -59,3 +59,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+---
+
+### 📚 Últimos proyectos destacados
+
+👉 Te invito a ver mis proyectos fijados más abajo o visitar mi [sitio web](https://danielkresisch.com.ar) para conocer más sobre mi trabajo.

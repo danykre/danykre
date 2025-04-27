@@ -57,18 +57,19 @@
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danykre&theme=radical&hide_border=false" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danykre&theme=radical&hide_border=true" alt="GitHub Streak"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=false&layout=compact&hide_progress=true" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=true&layout=compact&hide_progress=true" alt="Top Langs"/>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 

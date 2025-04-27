@@ -53,10 +53,27 @@
 
 ---
 
-### 📈 Estadísticas
+### 📊 Mis estadísticas en GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danykre&theme=radical&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danykre&theme=radical&hide_border=false" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=false&layout=compact&hide_progress=true" alt="Top Langs"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=danykre&theme=radical&hide_border=false&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 

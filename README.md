@@ -66,11 +66,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=false&layout=compact&hide_progress=true" alt="Top Langs"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=danykre&theme=radical&hide_border=false&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-    </td>
-  </tr>
 </table>
 
 </div>

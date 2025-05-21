@@ -1,6 +1,8 @@
 ## 👋 ¡Hola, soy Daniel Kresisch! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" />
 
-<img src="https://assets.datamation.com/uploads/2023/08/dm08172023-what-is-data-analytics-696x455.png" alt="Data Analytics Banner" width="100%" />
+<p align="center">
+  <img src="./portada.jfif" width="100%" alt="Portada" />
+</p>
 
 ---
 

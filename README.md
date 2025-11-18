@@ -1,82 +1,74 @@
-## 👋 ¡Hola, soy Daniel Kresisch! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" />
+<!-- Banner -->
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQE4PzrUxvKvrw/profile-displaybackgroundimage-shrink_200_800/B4EZcYuohuHcAc-/0/1748466576456?e=1764806400&v=beta&t=lQj_lQCLp6OVH322nQpG0946Qpq-v4ehoHXQBeyijdY" alt="Banner" width="100%">
 
-<p align="center">
-  <img src="./portada.jfif" width="100%" alt="Portada" />
-</p>
+# 👋 ¡Hola! Soy Dany Kresisch
 
----
+15 años de experiencia en banca y actualmente especializado en Data Analytics, Business Intelligence y Data Science.
 
-### 🧠 Acerca de mí
-
-- 🏦 Tengo experiencia de 15 años en el sector financiero.
-- 👀 Me dio curiosidad el mundo de los datos, por lo que comencé a estudiarlos.
-- 🎓 Me recibí de **Data Analytics**, **Business Analytics** y **Data Science** en Coderhouse, quedando dentro del Top 10 de los mejores alumnos.
-- 🧰 Me certifiqué en **Excel**, **SQL**, **Power BI**, **Looker** y **Tableau**.
-- 🚀 Sigo profundizando en el mundo de los datos para mejorar la toma de decisiones, incrementando la productividad y eficiencia en las organizaciones.
+Me apasiona analizar datos, mejorar procesos y crear soluciones que combinen claridad, precisión y sentido del negocio.
 
 ---
 
-### 🌐 Contacto
+# 📌 Proyectos Destacados
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/daniel-kresisch/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:danielkresisch@gmail.com)  
-
-[![Visita mi sitio web](https://img.shields.io/badge/Visita_mi_sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://danielkresisch.com.ar)
+A continuación, una selección organizada de mis proyectos, agrupados por área para mostrar la variedad y el enfoque profesional de mi trabajo.
 
 ---
 
-### ⚙️ Herramientas y Tecnologías
-
-
-#### Análisis y Visualización
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logoColor=white)
-
-#### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-#### Gestión y colaboración
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-#### Diseño
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-#### Otras herramientas
-![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+## 📚 Data Analytics
+- **Maldon — Data Analytics**  
+  📁 https://github.com/danykre/maldon  
+- **Alarmix — Python Data Analysis**  
+  📁 https://github.com/danykre/alarmix  
 
 ---
 
-### 📊 Mis estadísticas en GitHub
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danykre&theme=radical&hide_border=true" alt="GitHub Streak"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danykre&theme=radical&hide_border=true&layout=compact&hide_progress=true" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
+## 📊 Business Analytics
+- **Reba — Business Analytics**  
+  📁 https://github.com/danykre/reba  
 
 ---
 
+## 🎬 SQL & Data Querying
+- **Netflix — SQL Analytics**  
+  📁 https://github.com/danykre/netflix-sql  
+
 ---
 
-### 📚 Últimos proyectos destacados
+## 🤖 Machine Learning & Data Science
+- **Digital Soluciones — Machine Learning**  
+  📁 https://github.com/danykre/digital-soluciones  
 
-👉 Te invito a ver mis proyectos fijados más abajo o visitar mi [sitio web](https://danielkresisch.com.ar) para conocer más sobre mi trabajo.
+---
+
+## 💬 NLP & Deep Learning
+- **Opinia — NLP & Deep Learning**  
+  📁 https://github.com/danykre/opinia  
+
+---
+
+## ⚽ Visual Analytics (Power BI)
+- **Goles Mundiales — Power BI Dashboard**  
+  📁 https://github.com/danykre/goles-mundiales  
+
+---
+
+# 🛠️ Tecnologías y Herramientas
+
+**Lenguajes:** Python · SQL  
+**Data Tools:** Pandas · NumPy · Matplotlib · Seaborn  
+**Machine Learning:** Scikit-learn · Modelos supervisados · NLP  
+**BI & Visual:** Power BI  
+**Workflow:** Git · GitHub  
+
+---
+
+# 🌐 Contacto
+
+📧 **danielkresicsh@gmail.com**  
+🌍 **danielkresicsh.com.ar**  
+💼 **LinkedIn:** https://www.linkedin.com/in/danykre  
+
+---
+
+⭐ *Gracias por visitar mi perfil. Si te interesan mis proyectos, sentite libre de dejar una estrella o escribirme. ¡Siempre abierto a colaborar!*

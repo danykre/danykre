@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQE4PzrUxvKvrw/profile-displaybackgroundimage-shrink_200_800/B4EZcYuohuHcAc-/0/1748466576456?e=1764806400&v=beta&t=lQj_lQCLp6OVH322nQpG0946Qpq-v4ehoHXQBeyijdY" alt="Banner" width="100%">
 
-# 👋 ¡Hola! Soy Dany Kresisch
+# 👋 ¡Hola! Soy Daniel Kresisch
 
 15 años de experiencia en banca y actualmente especializado en Data Analytics, Business Intelligence y Data Science.
 

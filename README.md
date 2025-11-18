@@ -16,40 +16,55 @@ A continuación, una selección organizada de mis proyectos, agrupados por área
 ---
 
 ## 📚 Data Analytics
-- **Maldon — Data Analytics**  
-  📁 https://github.com/danykre/maldon  
-- **Alarmix — Python Data Analysis**  
-  📁 https://github.com/danykre/alarmix  
+**Maldon — Data Analytics**  
+<a href="https://github.com/danykre/maldon" target="_blank">
+  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-24292F?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+**Alarmix — Python Data Analysis**  
+<a href="https://github.com/danykre/alarmix" target="_blank">
+  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-24292F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
 ## 📊 Business Analytics
-- **Reba — Business Analytics**  
-  📁 https://github.com/danykre/reba  
+**Reba — Business Analytics**  
+<a href="https://github.com/danykre/reba" target="_blank">
+  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-24292F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
 ## 🎬 SQL & Data Querying
-- **Netflix — SQL Analytics**  
-  📁 https://github.com/danykre/netflix-sql  
+**Netflix — SQL Analytics**  
+<a href="https://github.com/danykre/netflix-sql" target="_blank">
+  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-24292F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
 ## 🤖 Machine Learning & Data Science
-- **Digital Soluciones — Machine Learning**  
-  📁 https://github.com/danykre/digital-soluciones  
+**Digital Soluciones — Machine Learning**  
+<a href="https://github.com/danykre/digital-soluciones" target="_blank">
+  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-24292F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
 ## 💬 NLP & Deep Learning
-- **Opinia — NLP & Deep Learning**  
-  📁 https://github.com/danykre/opinia  
+**Opinia — NLP & Deep Learning**  
+<a href="https://github.com/danykre/opinia" target="_blank">
+  <img src="https://img.shields.io/badge/VER%20REPO-24292F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
 ## ⚽ Visual Analytics (Power BI)
-- **Goles Mundiales — Power BI Dashboard**  
-  📁 https://github.com/danykre/goles-mundiales  
+**Goles Mundiales — Power BI Dashboard**  
+<a href="https://github.com/danykre/goles-mundiales" target="_blank">
+  <img src="https://img.shields.io/badge/VER%20REPOSITORIO-24292F?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 

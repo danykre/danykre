@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGhSEArMKc8LQ/profile-displaybackgroundimage-shrink_200_800/B4EZqcqmEPKsAU-/0/1763565006546?e=1765411200&v=beta&t=17Dtd3QrbMSa5Sly0Gyw8a-uuJLjZv1VDrIv6yjSNDM" alt="Banner" width="100%">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQG9hpMXziNBXw/profile-displaybackgroundimage-shrink_350_1400/B4DZzU0DHgGoAY-/0/1773096941121?e=1774483200&v=beta&t=SNfJJn6Rde3ENf3Pch_V_7XDgl0K6H_3cEzUpWG9fkM" alt="Banner" width="100%">
 
 # 👋 ¡Hola! Soy Daniel Kresisch
 

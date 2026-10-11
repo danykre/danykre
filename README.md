@@ -65,10 +65,12 @@ A continuación, una selección organizada de mis proyectos, agrupados por área
 <a href="https://github.com/danykre/goles-mundiales" target="_blank">
   <img src="https://img.shields.io/badge/VER%20REPOSITORIO-24292F?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 **Mundial 2026 — Power BI Dashboard + Python + SQL**  
 <a href="https://github.com/danykre/mundial-2026" target="_blank">
   <img src="https://img.shields.io/badge/VER%20REPOSITORIO-24292F?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
 ---
 
 # 🛠️ Tecnologías y Herramientas
